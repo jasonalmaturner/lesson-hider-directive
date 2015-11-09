@@ -5,9 +5,9 @@ Today we will be building a custom directive that checks whether a lesson is alr
 ## Step 1: Initializing the file structure.
 All that is provided is the schedule.json and app.js, so lets start by laying out the skeleton of our app. We will need an 
 - `index.html`
-- `lessonCtrl.js`, 
+- `lessonCtrl.js`
 - `lessonService.js`
-- `lessonHider.js`. 
+- `lessonHider.js` 
 ​
 
 So lets start out by creating those files and setting up the necessary basics such as initializing the app and controller.
